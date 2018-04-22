@@ -20,11 +20,13 @@ Navigate to the local directory where the repo was installed
 
 Install dependencies
 
-`sudo apt-get install ruby ruby-dev`
+`sudo apt-get install ruby ruby-dev python-software-properties`
 
 `curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -`
 
 `sudo apt-get install -y nodejs`
+
+`sudo npm install -g bower`
 
 `bundle && npm install && bower install`
 
