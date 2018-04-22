@@ -20,6 +20,12 @@ Navigate to the local directory where the repo was installed
 
 Install dependencies
 
+`sudo apt-get install ruby ruby-dev`
+
+`curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -`
+
+`sudo apt-get install -y nodejs`
+
 `bundle && npm install && bower install`
 
 Starting up
