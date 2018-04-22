@@ -239,3 +239,124 @@ Build complete
 [Browsersync] Reloading Browsers...
 [Browsersync] 2 files changed (landing-page.js.map, landing-page.js)
 [03:32:29] Finished 'concat-lp' after 5.58 s
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.429 seconds.
+ Auto-regeneration: enabled for '/home/safecoin/website'
+jekyll 3.5.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.438 seconds.
+ Auto-regeneration: enabled for '/home/safecoin/website'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2018-04-21 19:44:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 19:53:56] ERROR `/wp-content/themes/wallstreet-pro/images/portfolio/port1.jpg' not found.
+[2018-04-21 20:00:55] ERROR `/view/img/favicon.ico' not found.
+[2018-04-21 20:00:59] ERROR `/home/favicon.ico' not found.
+[2018-04-21 20:01:01] ERROR `/2/favicon.ico' not found.
+[2018-04-21 20:01:13] ERROR `/favicon.ico' not found.
+[2018-04-21 20:01:20] ERROR `/view/img/favicon.ico' not found.
+[2018-04-21 20:01:35] ERROR `/3/favicon.ico' not found.
+[2018-04-21 20:12:08] ERROR `/favicon.ico' not found.
+[2018-04-21 20:27:32] ERROR `/favicon.ico' not found.
+[2018-04-21 20:31:53] ERROR `/wp-content/themes/wallstreet-pro/images/portfolio/port2.jpg' not found.
+[2018-04-21 20:33:21] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 20:33:21] ERROR `/favicon.ico' not found.
+[2018-04-21 20:38:14] ERROR `/favicon.ico' not found.
+[2018-04-21 20:39:26] ERROR `/favicon.ico' not found.
+[2018-04-21 20:42:06] ERROR `/favicon.ico' not found.
+[2018-04-21 20:47:39] ERROR `/favicon.ico' not found.
+[2018-04-21 20:54:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 21:11:52] ERROR `/wp-content/themes/wallstreet-pro/images/service1.jpg' not found.
+[2018-04-21 22:23:30] ERROR `/assets/files/SafeCoin_LEGAL MEMORANDUM.pdf' not found.
+[2018-04-21 22:24:55] ERROR `/favicon.ico' not found.
+[2018-04-21 22:40:06] ERROR `/favicon.ico' not found.
+[2018-04-21 22:40:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 22:40:23] ERROR `/favicon.ico' not found.
+[2018-04-21 23:07:21] ERROR `/config/databases.yml' not found.
+[2018-04-21 23:07:22] ERROR `/config/database.yml' not found.
+[2018-04-21 23:07:22] ERROR `/lfm.php' not found.
+[2018-04-21 23:07:23] ERROR `/app/etc/local.xml' not found.
+[2018-04-21 23:07:23] ERROR `/.env' not found.
+[2018-04-21 23:07:24] ERROR `/sftp-config.json' not found.
+[2018-04-21 23:07:24] ERROR `/.ftpconfig' not found.
+[2018-04-21 23:07:25] ERROR `/.remote-sync.json' not found.
+[2018-04-21 23:07:26] ERROR `/.vscode/ftp-sync.json' not found.
+[2018-04-21 23:07:26] ERROR `/deployment-config.json' not found.
+[2018-04-21 23:07:27] ERROR `/WS_FTP.ini' not found.
+[2018-04-21 23:07:27] ERROR `/ws_ftp.ini' not found.
+[2018-04-21 23:07:28] ERROR `/WS_FTP.INI' not found.
+[2018-04-21 23:07:28] ERROR `/filezilla.xml' not found.
+[2018-04-21 23:07:29] ERROR `/sitemanager.xml' not found.
+[2018-04-21 23:07:29] ERROR `/FileZilla.xml' not found.
+[2018-04-21 23:07:30] ERROR `/winscp.ini' not found.
+[2018-04-21 23:07:31] ERROR `/WinSCP.ini' not found.
+[2018-04-21 23:16:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 23:16:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:12 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 23:22:18] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 23:22:18] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-21 23:31:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:12 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-22 00:18:11] ERROR `/favicon.ico' not found.
+[2018-04-22 00:18:34] ERROR `/2/favicon.ico' not found.
+[2018-04-22 00:19:14] ERROR `/2/favicon.ico' not found.
+[2018-04-22 00:19:17] ERROR `/3/favicon.ico' not found.
+[2018-04-22 00:25:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:12 
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2018-04-22 00:43:30] ERROR `/favicon.ico' not found.
+Configuration file: /home/safecoin/website/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /home/safecoin/website
+       Destination: /home/safecoin/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Building site for default language: "en" to: /home/safecoin/website/_site
+Loading translation from file /home/safecoin/website/_i18n/en.yml
+Build complete
+                    done in 0.588 seconds.
+ Auto-regeneration: enabled for '/home/safecoin/website'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
