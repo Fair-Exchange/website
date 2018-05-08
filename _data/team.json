@@ -23,23 +23,6 @@
         ]
         },
     {
-      "name": "Business Development",
-      "slug": "business-development",
-      "members": [
-          {
-            "name": "Wade Ferraris",
-            "photo": "/assets/img/people/wade.jpg",
-            "title": "CFO",
-            "bio": "Wade is an educated, exerienced, and promising entrepreneur with many gifts and skillsets and a track record of successful, well managed business startups and ventures.  He has a passion for and strong understanding of cryptocurrency that is well utilized with SafeCoin",
-            "social": {
-              "twitter": "safecoins",
-              "linkedin": "safecoins",
-              "discord": "safecoin"
-            }
-          }
-        ]
-        },
-    {
       "name": "Technical Advisor",
       "slug": "technical-advisor",
       "members": [
