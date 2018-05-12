@@ -64,6 +64,14 @@
       WorkerPage = ""
   },
   {
+      ID = 6,
+      Name = "Lucky Mining",
+      fee = "1%!!",
+      port = "2017",
+      uri = "safe.lucky-mining.com.ua",
+      WorkerPage = ""
+  },
+  {
       ID = 7,
       Name = "PcMining XYZ Asia",
       fee = "1%!!",
